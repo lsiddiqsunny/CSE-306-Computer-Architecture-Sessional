@@ -1,0 +1,6 @@
+S0	(A XOR B)'
+S1	A + B
+S2	A XOR B
+s3	A + B'
+CN	B'
+M	A
